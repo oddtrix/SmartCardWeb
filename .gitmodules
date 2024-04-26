@@ -1,0 +1,6 @@
+[submodule "SmartCardApi"]
+	path = SmartCardApi
+	url = https://github.com/oddtrix/SmartCardApi
+[submodule "SmartCardReact"]
+	path = SmartCardReact
+	url = https://github.com/oddtrix/SmartCard
